@@ -53,9 +53,9 @@ resume_enhancer/
 </pre>
 
 ## Running the Project (VS Code Recommended)
-### 1. Install dependencies
+### 1. Note : Replace "YOUR_API_KEY" in utils.py
+### 2. Install dependencies
 pip install -r requirements.txt
-### 2. Note : Replace "YOUR_API_KEY" in utils.py
 ### 3. Run the program
 python main.py
 
