@@ -1,4 +1,0 @@
-John Doe
-Objective: Seeking a challenging job in software.
-Experience: Worked at XYZ Company. Built software. Did testing.
-Skills: Python, Java.
