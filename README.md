@@ -55,6 +55,7 @@ resume_enhancer/
 ## Running the Project (VS Code Recommended)
 ### 1. Install dependencies
 pip install -r requirements.txt
+## NOTE: Replace "YOUR_API_KEY" in utils.py
 ### 2. Run the program
 python main.py
 
@@ -65,3 +66,4 @@ python main.py
  - Gemini API 
  - LLM(Large Language Model)
  - Environment variables (dotenv)
+
